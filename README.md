@@ -28,7 +28,6 @@ https://github.com/user-attachments/assets/2670b09b-2791-41a5-a672-c6ac6930c7d4
 
 ### Guidelines
 *Stations and Spots:*
-
 - N: Number of stations (minimum of 48).
 - M: Number of available spots in the two-dimensional space (M ≥ N).
 - The layout can be of any shape, allowing for irregular configurations. Some spots may remain unoccupied (serving as "holes").
